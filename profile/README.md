@@ -25,3 +25,5 @@ Nuestras principales características de una comunidad de código abierto latino
 - Énfasis en Problemas Locales: Algunos proyectos pueden centrarse en resolver problemas específicos de la región, como soluciones tecnológicas para desafíos socioeconómicos locales.
 
 Nuestra comunidad siempre intentará de fomentar un ambiente inclusivo y colaborativo, donde los participantes pueden aprender, contribuir y crecer juntos mientras trabajan en proyectos que tienen un impacto positivo en la región y más allá.
+
+Te invitamos a nuestro slack público: https://slack.oss.lat
