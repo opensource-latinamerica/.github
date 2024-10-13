@@ -26,4 +26,12 @@ Nuestras principales características de una comunidad de código abierto latino
 
 Nuestra comunidad siempre intentará de fomentar un ambiente inclusivo y colaborativo, donde los participantes pueden aprender, contribuir y crecer juntos mientras trabajan en proyectos que tienen un impacto positivo en la región y más allá.
 
-Te invitamos a nuestro slack público: https://slack.oss.lat
+---
+
+- Te invitamos a nuestro slack público: https://slack.oss.lat
+- Si quieres contribuir, ve a: https://github.com/orgs/opensource-latinamerica/discussions/5
+- Códigos de conducta en los que nos basamos: [OpenInfra](https://github.com/opensource-latinamerica/openinframx/blob/main/CODE_OF_CONDUCT.es.md) [Ceph](https://ceph.io/en/code-of-conduct/) [CNCF](https://github.com/cncf/foundation/blob/main/code-of-conduct-languages/es.md)
+
+---
+
+Atentamente. Comunidad de OpenSource LATAM
