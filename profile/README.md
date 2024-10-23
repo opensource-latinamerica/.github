@@ -30,7 +30,7 @@ Nuestra comunidad siempre intentará de fomentar un ambiente inclusivo y colabor
 
 - Te invitamos a nuestro slack público: https://slack.oss.lat
 - Si quieres contribuir, ve a: https://github.com/orgs/opensource-latinamerica/discussions/5
-- Códigos de conducta en los que nos basamos: [OpenInfra](https://github.com/opensource-latinamerica/openinframx/blob/main/CODE_OF_CONDUCT.es.md) [Ceph](https://ceph.io/en/code-of-conduct/) [CNCF](https://github.com/cncf/foundation/blob/main/code-of-conduct-languages/es.md)
+- Los códigos de conducta en los que nos basamos para mantener orden e igualdad son, [OpenInfra](https://github.com/opensource-latinamerica/openinframx/blob/main/CODE_OF_CONDUCT.es.md) [Ceph](https://ceph.io/en/code-of-conduct/) [CNCF](https://github.com/cncf/foundation/blob/main/code-of-conduct-languages/es.md), pero es importante recalcar que no recibimos apoyo ni órdenes de ninguno de ellos.
 
 ---
 
